@@ -1,5 +1,5 @@
-public class Main {
+public class Ejercicio1NombresFrutas {
     public static void main(String[] args) {
-        
+
     }
 }
